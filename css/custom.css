@@ -329,7 +329,6 @@ div.arrow { background: url("../img/arrow.png") no-repeat scroll 0 0 rgba(0, 0, 
 .overlay_arrow { left:50%; margin-left:-16px; width:0; height:0; position:absolute; }
 .overlay_arrow.above { bottom:-15px; border-left:16px solid transparent; border-right:16px solid transparent; border-top:16px solid #336699; }
 .overlay_arrow.below { top:-15px; border-left:16px solid transparent; border-right:16px solid transparent; border-bottom:16px solid #336699; }
-.contact_wrap { margin-top: 40px; }
 .contact_wrap > h3 { margin: 20px 0; }
 .contact .jumbotron { background-color: #DD4449; padding: 5px 15px; }
 address { font-size: 0.6em; }
